@@ -1,4 +1,4 @@
-/finance.ipr
+/lightning.ipr
 *.iml
 .idea/
 .DS_Store
@@ -8,4 +8,4 @@
 logs/
 *.log
 target/
-/finance.ipr
+/lightning.ipr
